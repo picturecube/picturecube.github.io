@@ -1,6 +1,6 @@
-<!DOCTYPE html>
-<html>
-  <body style = font-family: cursive;>
+layout: page
+title: "PICTURECUBES"
+permalink: /it
     PICTURECUBE
     PICTURECUBE
     PICTURECUBE
@@ -173,5 +173,3 @@
     PICTURECUBE
     PICTURECUBE
     PICTURECUBE
-  </body>
-</html>
