@@ -1,6 +1,8 @@
-layout: page
+ilyout: page
 title: "PICTURECUBES"
 permalink: /it
+
+    PICTURECUBE
     PICTURECUBE
     PICTURECUBE
     PICTURECUBE
